@@ -1,4 +1,4 @@
-# Felix Tigges - GitHub Profil
+# Felix Tigges
 
 ## Über mich 👨🏻‍💻
 Hi, ich bin Felix Tigges! 👋  
@@ -8,7 +8,7 @@ Während meiner Ausbildung konnte ich erste praktische Erfahrungen in der Softwa
 
 ## Berufserfahrung 💼
 **Mitgründer & Entwickler**  
-[Tibke IT GbR](https://tibke-it.de) | 2021 - 2024  
+[Tibke IT GbR](https://tibke-it.de) | ab 2021
 Während der Corona-Pandemie habe ich mit einem Freund ein IT-Startup gegründet. Hier haben wir mehrere Projekte erfolgreich umgesetzt, hauptsächlich im Bereich **Webanwendungen** und **Mobile Apps**. Dabei arbeite ich sowohl mit Frontend- als auch mit Backend-Technologien. Die Projekte sind privat, aber gerne können wir Kontakt aufnehmen, um einen Einblick zu bekommen.
 
 **Ausbildung zum Fachinformatiker - Anwendungsentwicklung**  
