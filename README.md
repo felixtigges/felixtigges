@@ -8,7 +8,7 @@ Während meiner Ausbildung konnte ich erste praktische Erfahrungen in der Softwa
 
 ## Berufserfahrung 💼
 **Mitgründer & Entwickler**  
-[Tibke IT GbR](https://tibke-it.de) | ab 2021  
+[Tibke IT GmbH](https://tibke-it.de) | ab 2021  
 Während der Corona-Pandemie habe ich mit einem Freund ein IT-Startup gegründet. Hier haben wir mehrere Projekte erfolgreich umgesetzt, hauptsächlich im Bereich **Webanwendungen** und **Mobile Apps**. Dabei arbeite ich sowohl mit Frontend- als auch mit Backend-Technologien. Die Projekte sind privat, aber gerne können wir Kontakt aufnehmen, um einen Einblick zu bekommen.
 
 **Ausbildung zum Fachinformatiker - Anwendungsentwicklung**  
@@ -18,4 +18,5 @@ Während meiner Ausbildung habe ich fundierte Kenntnisse in der Softwareentwickl
 ## Kontakt 📫
 Erreiche mich via:  
 - [E-Mail](mailto:felix.tigges@tibke-it.de)  
+- [LinkedIn](https://www.linkedin.com/in/felix-tigges-17772b360/)  
 - [Instagram](https://www.instagram.com/felix.tigges)
